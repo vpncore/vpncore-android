@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">vpncore-android</string>
+    <string name="activity_main_connect_button_text">Connect</string>
+    <string name="activity_main_disconnect_button_text">Disconnect</string>
+</resources>
