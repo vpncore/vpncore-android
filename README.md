@@ -3,7 +3,7 @@
 
 ### Installation
 ```groovy
-implementation("org.vpncore.vpncore_android:1.0.0")
+implementation("org.vpncore:vpncore_android:1.0.0")
 ```
 
 ### Usage
